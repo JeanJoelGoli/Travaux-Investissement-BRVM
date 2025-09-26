@@ -3,14 +3,12 @@
 cache/
 *.parquet
 *.zip
-*.csv
 *.feather
 
 # gros fichiers
 cache/
 *.parquet
 *.zip
-*.csv
 *.feather
 
 cache/
